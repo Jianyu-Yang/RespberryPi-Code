@@ -1,0 +1,1 @@
+Èí¼ş£ºraspbian+ssh+RDP/TeamView+³õÊ¼ÅäÖÃ+fan+pi-dashboard(nginx+php7.0)+frp+DHT22+aria2+docker+ssr
